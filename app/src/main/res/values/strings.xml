@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Rescue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="food_rescue">Food Rescue</string>
+    <string name="discover_free_food">Discover free food</string>
+    <string name="address">Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save">save</string>
+    <string name="test_food_title">Test Food Title</string>
+    <string name="test_food_description">Test Food description</string>
+    <string name="todo">TODO</string>
+</resources>
